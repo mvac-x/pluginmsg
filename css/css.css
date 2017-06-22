@@ -1,0 +1,274 @@
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+
+.fa-2x {
+    font-size: 2em;
+}
+
+#header, #feature, #about, #testimonial, #screenshots, #portfolio, #image, #video, #newsletter, #download, #social {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .lead {
+    font-weight: 300;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+}
+
+
+.wh-messengers ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+
+.wh-messengers ul li {
+    display: inline-block;
+    margin: 0 20px 20px 0;
+    position: relative;
+}
+
+
+.wh-messengers ul li button.wh-messenger.wh-messenger-bg-facebook {
+    background-color: #0084ff;
+}
+
+
+
+
+.wh-messengers ul li button {
+    
+    display: inline-block;
+    line-height: 45px;
+    height: 45px;
+    width: 45px;
+    border: 0;
+    border-radius: 50%;
+    padding: 0;
+    overflow: visible;
+    position: relative;
+}
+
+.wh-messenger-bg-facebook{
+	background-color: #0084ff;
+}
+
+
+.wh-messenger-bg-whatsapp{
+	background-color: #4dc247;	
+}
+
+.wh-messenger-bg-viber{
+	background-color: #7b519d;
+}
+
+.wh-messenger-bg-telegram{
+	background-color: #08c;
+}
+
+.messaging-icon {
+    margin: 0;
+    width: 25px;
+    height: 25px;
+    border: 0;
+    color: white;
+    padding: 0px;
+    line-height: 25px;
+    text-align: center;
+    display: inline-block;
+    font-weight: normal;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+
+.input-group .form-control, .input-group-addon, .input-group-btn {
+    display: table-cell;
+}
+
+
+
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+    margin-left: -1px;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+}
+
+.fa-2x {
+    font-size: 2em;
+}
+
+#feature .item-icon {
+    border: 2px solid #0d2338;
+}
+
+.wh-customise-widget .wh-customise-widget-textarea {
+    margin-top: 0;
+    height: 62px;
+    width: 278px;
+    font-size: 14px;
+    padding: 2%;
+    font-family: 'Courier New', Courier, monospace;
+    resize: none;
+    background-color: white;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    line-height: 1em;
+    cursor: auto;
+}
+
+
+.wh-customise-widget .wh-customise-widget-input {
+    margin-top: 0;
+    width: 278px;
+    font-size: 14px;
+    padding: 2%;
+    font-family: 'Courier New', Courier, monospace;
+    resize: none;
+    background-color: white;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    line-height: 1em;
+    cursor: auto;
+}
+
+#wh-customise-widget-example-wrapper div.wh-widget-message-block div.wh-widget-message-block-main {
+    box-shadow: 2px 2px 15px 2px rgba(0,0,0,0.17);
+    border: 1px solid #e2e2e2;
+    position: relative;
+    min-height: 149px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#wh-customise-widget-example-wrapper {
+    margin: 0 0 0 auto;
+    padding: 0;
+    border: 0;
+    position: relative;
+    top: -5px;
+    z-index: 16000100;
+    width: 343px;
+    text-align: center;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+#wh-customise-widget-example-wrapper a.wh-widget-activator.right {
+    float: right;
+    right: 1px;
+}
+
+#wh-customise-widget-example-wrapper a.wh-widget-activator {
+    display: block;
+    height: 52px;
+    width: 52px;
+    border-radius: 48px;
+    overflow: hidden;
+    position: relative;
+    top: 17px;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+
+
+#wh-customise-widget-example-wrapper div.wh-widget-message-block {
+    display: block;
+    position: relative;
+    line-height: 23px;
+    font-size: 14px;
+}
+
+#wh-customise-widget-example-wrapper div.wh-widget-message-block div.wh-widget-message-block-main .wh-widget-close {
+    float: right;
+    padding: 7px 9px 3px 5px;
+    line-height: 10px;
+    cursor: not-allowed;
+}
+
+#wh-customise-widget-example-wrapper div.wh-widget-message-block div.wh-widget-message-block-main .wh-widget-close svg {
+    fill: #a3a3a3;
+    width: 15px;
+    height: 15px;
+}
+
+
+#wh-customise-widget-example-wrapper div.wh-widget-message-block .wh-widget-message-block-show {
+    min-height: 58px;
+    display: block;
+    border-radius: 4px 4px 0 0;
+    cursor: default;
+    color: black;
+    padding: 27px 23px 20px 18px;
+}
+
+
+#wh-customise-widget-example-wrapper a.wh-widget-activator.right {
+    float: right;
+    right: 1px;
+}
+
+#feature .item-icon {
+    border: 2px solid #0d2338;
+}
+
+
+.btn-lead {
+    background-color: #69B3E4;
+    border-color: #69B3E4;
+}
+
+
+.btn-lead {
+    color: #ffffff;
+    background-color: #53e0c4;
+    border-color: #53e0c4;
+    transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.25s ease-in-out;
+}
+
+
+.espacorodape{
+    height: 300px;
+}
+
+.glyphicon{
+    font-size: 3em;
+}
