@@ -40,28 +40,28 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .lead {
 }
 
 
-.wh-messengers ul {
+.social ul {
     display: inline-block;
     margin: 0;
     padding: 0;
 }
 
 
-.wh-messengers ul li {
+.social ul li {
     display: inline-block;
     margin: 0 20px 20px 0;
     position: relative;
 }
 
 
-.wh-messengers ul li button.wh-messenger.wh-messenger-bg-facebook {
+.social ul li button.wh-messenger.wh-messenger-bg-facebook {
     background-color: #0084ff;
 }
 
 
 
 
-.wh-messengers ul li button {
+.social ul li button {
     
     display: inline-block;
     line-height: 45px;
@@ -270,5 +270,25 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .lead {
 }
 
 .glyphicon{
-    font-size: 3em;
+    font-size: e3m;
 }
+
+#sociaisFace{
+    display: none;
+}
+
+#sociaisWpp{
+    display: none;
+}
+
+
+#sociaisViber{
+    display: none;
+}
+
+
+#sociaisTele{
+    display: none;
+}
+    
+
